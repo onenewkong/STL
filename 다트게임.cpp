@@ -1,4 +1,5 @@
-// 2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임
+// 2018 KAKAO BLIND RECRUITMENT
+
 #include <string>
 #include <vector>
 #include <cmath>
